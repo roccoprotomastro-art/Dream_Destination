@@ -13,3 +13,7 @@ a:hover {    /* Color of the link when hovering over */
 	color: rgb(16, 185, 236);
     text-decoration: underline;
 }
+
+img{
+	border: 15px solid rgb(67, 197, 236);
+}
